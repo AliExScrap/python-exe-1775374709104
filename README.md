@@ -1,2 +1,5 @@
-# python-exe-1775374709104
-Python to EXE - CalculatriceExpert
+# CalculatriceExpert
+
+Python app compiled to Windows EXE via GitHub Actions.
+
+Le build démarre automatiquement via GitHub Actions.
